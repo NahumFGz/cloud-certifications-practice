@@ -1,1 +1,1 @@
-# cloud-academy-practice
+# cloud-certifications-practice
